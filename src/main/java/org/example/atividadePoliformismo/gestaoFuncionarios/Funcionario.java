@@ -1,4 +1,4 @@
-package org.example.atividadePoliformismo.GestaoFuncionarios;
+package org.example.atividadePoliformismo.gestaoFuncionarios;
 
 public class Funcionario {
 
